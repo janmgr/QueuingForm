@@ -1,0 +1,12 @@
+C:\Users\AMD-RYZEN\source\repos\QueuingForm\QueuingForm\bin\Debug\QueuingForm.exe.config
+C:\Users\AMD-RYZEN\source\repos\QueuingForm\QueuingForm\bin\Debug\QueuingForm.exe
+C:\Users\AMD-RYZEN\source\repos\QueuingForm\QueuingForm\bin\Debug\QueuingForm.pdb
+C:\Users\AMD-RYZEN\source\repos\QueuingForm\QueuingForm\obj\Debug\QueuingForm.csprojAssemblyReference.cache
+C:\Users\AMD-RYZEN\source\repos\QueuingForm\QueuingForm\obj\Debug\QueuingForm.CashierWindowQueueForm.resources
+C:\Users\AMD-RYZEN\source\repos\QueuingForm\QueuingForm\obj\Debug\QueuingForm.QueuingForm.resources
+C:\Users\AMD-RYZEN\source\repos\QueuingForm\QueuingForm\obj\Debug\QueuingForm.Properties.Resources.resources
+C:\Users\AMD-RYZEN\source\repos\QueuingForm\QueuingForm\obj\Debug\QueuingForm.csproj.GenerateResource.cache
+C:\Users\AMD-RYZEN\source\repos\QueuingForm\QueuingForm\obj\Debug\QueuingForm.csproj.CoreCompileInputs.cache
+C:\Users\AMD-RYZEN\source\repos\QueuingForm\QueuingForm\obj\Debug\QueuingForm.exe
+C:\Users\AMD-RYZEN\source\repos\QueuingForm\QueuingForm\obj\Debug\QueuingForm.pdb
+C:\Users\AMD-RYZEN\source\repos\QueuingForm\QueuingForm\obj\Debug\QueuingForm.NowServingForm.resources
